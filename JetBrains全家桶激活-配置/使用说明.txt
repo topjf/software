@@ -1,0 +1,10 @@
+1、本激活方法适用于2021、2020、2019、2018全系列版本；
+2、本教程适用于 JetBrains 全系列产品，包括 Pycharm、IDEA、WebStorm、Phpstorm、Datagrip、RubyMine、CLion、AppCode 等。
+
+注意：将ja-netfilter-all文件夹整个拷贝到某个位置，就不要动了
+
+方式1：无限重置30天试用期教程（最高支持版本2021.2.2）
+https://www.exception.site/essay/idea-reset-eval
+
+方式2：激活到2099年教程:
+https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3
